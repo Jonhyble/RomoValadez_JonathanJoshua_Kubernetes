@@ -1,6 +1,6 @@
 FROM python:3.9
 
-COPY ./ApiPeliculas /app
+COPY ./ApiDeApis /app
 
 RUN pip3 install -r app/requirements.txt
 
