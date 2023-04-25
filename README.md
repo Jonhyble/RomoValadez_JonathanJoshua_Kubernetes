@@ -138,6 +138,10 @@ Se podrá ver que la aplicación funciona correctamente en localhost.
 
 ![Resultados](./Imagenes/7.png "Resultados")
 
+Aunque se intenten detener los contenedores, se volverán a levantar.
+
+![Detener contendores](./Imagenes/8.png "Detener contenedores")
+
 ---
 
 ## Conclusión
